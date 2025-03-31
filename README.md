@@ -21,3 +21,11 @@ conda activate ./venv
 ```bash
 pip install -r requirements.txt
 ```
+
+Used My personal dataset to finetune model for kali linux pentesting
+
+https://huggingface.co/suryanshp1/Llama-3.1-8B-kali-pentester
+
+Kali linux pentester model link
+
+https://huggingface.co/suryanshp1/Llama-3.1-8B-kali-pentester
