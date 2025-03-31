@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Used My personal dataset to finetune model for kali linux pentesting
 
-https://huggingface.co/suryanshp1/Llama-3.1-8B-kali-pentester
+https://huggingface.co/datasets/suryanshp1/kali-linux-pentesting-data
 
 Kali linux pentester model link
 
