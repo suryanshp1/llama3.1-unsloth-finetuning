@@ -1,5 +1,5 @@
 # llama3.1-unsloth-finetuning
-LLama3.1 finetuning on a huggingface dataset with unsloth
+LLama3.1 finetuning on a huggingface dataset with unsloth for kali linux penetration testing .
 
 
 ## How to use ?
